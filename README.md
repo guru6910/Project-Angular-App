@@ -1,8 +1,8 @@
 # $${\color{red} \textbf{Project}: \textbf{Angular} \ \textbf{App}}$$
 
-### ${\color{red} \textbf{Frontend :}}$  ${\color{yellow} \textbf{Angular,Nodejs}}$
-### ${\color{red} \textbf{Backend :}}$  ${\color{yellow} \textbf{Java-Springboot}}$
-### ${\color{red} \textbf{Database :}}$  ${\color{yellow} \textbf{Mariadb}}$
+#### ${\color{red} \textbf{Frontend :}}$  ${\color{yellow} \textbf{Angular,Nodejs}}$
+#### ${\color{red} \textbf{Backend :}}$  ${\color{yellow} \textbf{Java-Springboot}}$
+#### ${\color{red} \textbf{Database :}}$  ${\color{yellow} \textbf{Mariadb}}$
 
 
 **Create a Security Group with the port of 80,22,3306 and 8080**
