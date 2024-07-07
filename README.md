@@ -97,7 +97,7 @@ cd Project-Angular-App/spring-backend
 ````
 vim src/main/resources/application.properties
 ````
-### ${\color{green} \textbf{NOTE : }}$ Add endpoint of database, Username and Password.
+#### ${\color{green} \textbf{NOTE : }}$ Add endpoint of database, Username and Password.
 
 
 5. Build the project using Maven
@@ -142,7 +142,7 @@ ng version
 cd src/app/services
 vim worker.service.ts
 ````
-### ${\color{green} \textbf{NOTE : }}$ Add public ip of Backend server.
+#### ${\color{green} \textbf{NOTE : }}$ Add public ip of Backend server.
 
 8. Install project dependencies.
 ````
@@ -154,3 +154,5 @@ ng build
 ````
 ng serve --host 0.0.0.0 --port=80
 ````
+#### ${\color{red} \textbf{Browse the public IP of Frontend Server}}$
+![Uploading WhatsApp Image 2024-05-28 at 15.32.42_4e5e3a69.jpg…]()
