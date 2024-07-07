@@ -155,4 +155,5 @@ ng build
 ng serve --host 0.0.0.0 --port=80
 ````
 #### ${\color{red} \textbf{Browse the public IP of Frontend Server}}$
-![Uploading WhatsApp Image 2024-05-28 at 15.32.42_4e5e3a69.jpg…]()
+![WhatsApp Image 2024-05-28 at 15 32 42_4e5e3a69](https://github.com/guru6910/Project-Angular-App/assets/169146749/339980ad-3de7-43e4-9c43-dd6f06d84528)
+
