@@ -17,17 +17,17 @@
 
 
 ### ${\color{green} \textbf{Create RDS}}$
-standard create
+- standard create
 
-Mariadb
+- Mariadb
 
-Free tier
+- Free tier
 
-Username & Password
+- Username & Password
 
-Connect to EC2 instance
+- Connect to EC2 instance
 
-Security group select 
+- Security group select 
 
 ![image](https://github.com/guru6910/Project-Angular-App/assets/169146749/f6c1561b-6d2d-45a0-beed-223e6a5cedcb)
 
