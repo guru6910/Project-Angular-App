@@ -147,6 +147,10 @@ vim worker.service.ts
 8. Install project dependencies.
 ````
 npm install
-ng build 
-sudo ng serve --host 0.0.0.0 --port=80
+````
+````
+ng build
+````
+````
+ng serve --host 0.0.0.0 --port=80
 ````
