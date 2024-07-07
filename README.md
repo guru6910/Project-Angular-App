@@ -122,7 +122,7 @@ cd Project-Angular-App/angular-frontend/
 ````
 3. install nodejs and npm
 ````
-yum install nodejs npm
+yum install nodejs npm -y
 ````
 4. Check Node.js and npm versions
 ````
