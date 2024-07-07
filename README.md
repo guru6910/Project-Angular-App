@@ -11,4 +11,4 @@
 
 
 
-# $${\color{lightred} \textbf{Connect to Database Server}}$$
+# ${\color{lightred} \textbf{Connect to Database Server}}$
