@@ -102,7 +102,7 @@ vim src/main/resources/application.properties
 
 5. Build the project using Maven
 ````
-mvn clean package-Dmaven.test.skip=true
+mvn clean package -Dmaven.test.skip=true
 ````
 6. Run the application:
 ````
