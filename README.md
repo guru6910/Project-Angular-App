@@ -7,7 +7,7 @@
 2. Backend-Server
 3. Database-Server
 
-# $${\color{green} \textbf{Create RDS}}$$
+# ${\color{green} \textbf{Create RDS}}$
 
 
 
