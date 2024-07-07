@@ -12,8 +12,18 @@
 1. Frontend-Server
 2. Backend-Server
 3. Database-Server
+![image](https://github.com/guru6910/Project-Angular-App/assets/169146749/f8d1ab54-37c3-4874-b95e-bd48aae68905)
+
 
 ### ${\color{green} \textbf{Create RDS}}$
+standard create
+Mariadb
+Free tier
+Username & Password
+Connect to EC2 instance
+Security group select 
+
+![image](https://github.com/guru6910/Project-Angular-App/assets/169146749/f6c1561b-6d2d-45a0-beed-223e6a5cedcb)
 
 
 
