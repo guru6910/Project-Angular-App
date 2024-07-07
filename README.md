@@ -7,8 +7,18 @@
 2. Backend-Server
 3. Database-Server
 
-# ${\color{green} \textbf{Create RDS}}$
+## ${\color{green} \textbf{Create RDS}}$
 
 
 
-# ${\color{lightred} \textbf{Connect to Database Server}}$
+## ${\color{red} \textbf{Connect to Database Server}}$
+
+````
+yum install mariadb105-server -y
+systemctl start mariadb.service
+````
+````
+yum install git -y
+git clone https://github.com/guru6910/Project-Angular-App
+````
+### ${\color{yellow} \textbf{Set up Database}}$
