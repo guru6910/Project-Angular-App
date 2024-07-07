@@ -140,7 +140,7 @@ ng version
 7. Connect with Backend Server  
 ````
 cd src/app/services
-sudo nano worker.service.ts
+vim worker.service.ts
 ````
 ### ${\color{green} \textbf{NOTE : }}$ Add public ip of Backend server.
 
