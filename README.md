@@ -7,7 +7,7 @@
 
 
 
-#### ${\color{blue} \textbf{Create a Security Group with the port of 80,22,3306 and 8080}}$
+#### ${\color{green} \textbf{Create a Security Group with the port of 80,22,3306 and 8080}}$
 
 **Create Three Instance**
 
