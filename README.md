@@ -158,4 +158,3 @@ ng serve --host 0.0.0.0 --port=80
 ````
 #### ${\color{red} \textbf{Browse the public IP of Frontend Server}}$
 
-![WhatsApp Image 2024-07-08 at 16 28 58_ee60a9c8](https://github.com/guru6910/Project-Angular-App/assets/169146749/73a8183c-ae52-4e36-98a8-a9caa6c6f794)
