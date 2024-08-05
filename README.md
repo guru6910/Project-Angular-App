@@ -71,6 +71,9 @@ mysql -h <endpoint> -u admin -ppasswd123
 use springbackend;
 ````
 ````
+select * from tbl_workers;
+````
+````
 describe springbackend;
 ````
 ````
