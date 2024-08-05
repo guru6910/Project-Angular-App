@@ -158,3 +158,4 @@ ng serve --host 0.0.0.0 --port=80
 ````
 #### ${\color{red} \textbf{Browse the public IP of Frontend Server}}$
 
+![image](https://github.com/user-attachments/assets/bae0fe81-a6da-48d2-8e62-c26e40e37411)
